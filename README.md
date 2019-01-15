@@ -1,4 +1,4 @@
-# beemovie
+# bmovie
 This is a python script that generates infinite copies of the bmovie to the location where the script is opened. 
 On my system it generates about 9,000 files per minute (500 mb) or 30gb/hr. Please do not use this program to trick 
 your friends and fill their hard drives with copies of the Bee Movie script. 
